@@ -59,3 +59,30 @@ h1{
 #lorem{
     background-color: yellow;
 }
+
+#headtable{
+    color: white;
+    background-color: rgba(32, 169, 229, 1);
+}
+
+table{
+    border-collapse: collapse;
+    text-align: center;
+}
+
+tbody{
+    background-color: rgba(154, 217, 244, 1);
+}
+
+#bodywhite{
+    background-color: white;
+}
+
+#initial{
+    text-align: initial;
+}
+
+.big{
+    width: 50%;
+    text-align: initial;
+}
