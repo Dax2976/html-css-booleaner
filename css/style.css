@@ -1,3 +1,7 @@
+body{
+    margin: 0;
+}
+
 header {
     background-image: url(../img/pattern.png);
     background-size:22%;
@@ -33,6 +37,15 @@ h1{
     margin-top: 2px;
 }
 
+.tim1{
+    height: 473px;
+    
+    
+}
+.tim2{
+    width: 45%;
+}
+
 #firstphoto{
     font-size: 10px;
     margin: auto;
@@ -41,4 +54,8 @@ h1{
 #secondphoto{
     font-size: 10px;
     margin: auto;
+}
+
+#lorem{
+    background-color: yellow;
 }
