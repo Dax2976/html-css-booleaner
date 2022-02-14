@@ -86,3 +86,37 @@ tbody{
     width: 50%;
     text-align: initial;
 }
+
+#grey{
+    color: grey;
+    font-weight: bold;
+}
+
+#imgpc{
+    background-image: url(../img/monitor.jpg);
+    width: 312px;
+    height: 208px;
+    
+
+}
+
+#inimgpc{
+    color: white;
+    font-size: 25px;
+    padding-left: 15px;
+    padding-top: 14px;
+}
+
+#imggraph{
+    background-image: url(../img/graph.jpg);
+    width: 311px;
+    height: 207px;
+
+}
+
+#inimggraph{
+    color: white;
+    font-size: 25px;
+    padding-left: 15px;
+    padding-top: 14px;
+}
